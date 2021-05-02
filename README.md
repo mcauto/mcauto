@@ -7,6 +7,8 @@ containerized testing and development environments and continuous integration an
 I think technology exists to solve problems.  
 I like to use or learn to use techniques appropriate to the problem.
 
+I want to learn until I die.
+
 ## Skills
 Python(flask, django, fastapi, asyncio, sqlalchemy), Java(spring), Go, C++, Vue.js, OpenTSDB, MySQL, Kafka, Redis, Docker, GCP, gitlab-ci, github-actions, makefile
 
