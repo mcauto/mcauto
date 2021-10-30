@@ -10,7 +10,7 @@ I like to use or learn to use techniques appropriate to the problem.
 I want to learn until I die.
 
 ## Skills
-Python(flask, django, fastapi, asyncio, sqlalchemy), Java(spring), Go, C++, Vue.js, OpenTSDB, MySQL, Kafka, Redis, Docker, GCP, gitlab-ci, github-actions, makefile
+Python(fastapi, asyncio, flask, django, sqlalchemy), Go(echo, fx), Java(spring), C++, Vue.js(nuxt), OpenTSDB, MySQL, Kafka, Redis, Docker, GeoIP, GCP, gitlab-ci, github-actions, makefile
 
 <details><summary>Github Stats</summary>
   
